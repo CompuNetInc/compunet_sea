@@ -1,4 +1,4 @@
-baseURL = "https://github.com/CompuNetInc/compunet_sea/"
+baseURL = "https://compunetinc.github.io/compunet_sea/"
 languageCode = "en-us"
 title = "CompuNet, Inc."
 theme = "hugo-serif-theme"
