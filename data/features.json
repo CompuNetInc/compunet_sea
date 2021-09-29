@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Certifiably... Something!",
+    "description": "We've got tons of highly certified folks, but, we still think experience > certification!",
+    "image": "ccie.png"
+  },
+  {
+    "title": "We ❤️ Open Source",
+    "description": "We believe in open-source software and contribute back every chance we can!",
+    "image": "scrapli.svg"
+  },
+  {
+    "title": "We are not robots!",
+    "description": "We are 100% not robots. Not much else to say here. Beep. Boop.",
+    "image": "robots.jpg"
+  }
+]

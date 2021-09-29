@@ -1,0 +1,43 @@
+baseURL = "https://github.com/CompuNetInc/compunet_sea/"
+languageCode = "en-us"
+title = "CompuNet, Inc."
+theme = "hugo-serif-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+    
+[params]
+  [params.homepage]
+    show_contact_box = false
+    show_services_button = true
+
+  [params.logo]
+    mobile = "compunet.png"
+    mobile_height = "36px"
+    desktop = "compunet.png"
+    desktop_height = "36px"
+    alt = "CompuNet, Inc."
+
+  [params.team]
+    summary_large_truncate = 9999
+
+  [params.footer]
+    copyright_text = 'Built with ❤️ with Hugo!'
+
+[menu]
+  [[menu.main]]
+    name = "Services"
+    url = "/services/"
+      weight = 1
+
+  [[menu.main]]
+      name = "The SEA Crew"
+      url = "/team/"
+      weight = 2
+
+  [[menu.main]]
+      name = "About Us"
+      url = "/about/"
+      weight = 3

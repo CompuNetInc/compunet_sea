@@ -1,0 +1,6 @@
+# hugo build
+public/*
+
+# macos stuff
+.DS_Store
+*/.DS_Store
