@@ -5,5 +5,5 @@ image: 'shawn.jpeg'
 jobtitle: 'Systems Engineer'
 linkedinurl: "https://www.linkedin.com/in/shawn-shiroma-a47980122/"
 promoted: false
-weight: 110
+weight: 118
 ---

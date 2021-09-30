@@ -4,7 +4,7 @@ title: 'About'
 
 ## CompuNet's Approach
 
-We understand our clients' business needs and engineer IT solutions to solve those needs on time, and on budget. Our mission is to design, test, deploy, and support the right IT solutions for each customers’ most vital business goals. 🔥
+We lead with engineering, not sales. This engineering-lead approach is what makes us different. We're at our best, when we're able to partner with clients who value our engineering-lead philosophy, our services-first approach, and our work hard-play hard mentality. 🔥
 
 ## What Makes Us Different
 
